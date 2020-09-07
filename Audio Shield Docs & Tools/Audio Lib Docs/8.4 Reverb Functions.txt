@@ -1,0 +1,1 @@
+AudioEffectReverbSummaryReverb with adjustable reverberation time. Contributed by Joao Rossi FIlho.Audio ConnectionsPort	PurposeIn 0	InputOut 0	OutputFunctionsreverbTime(seconds);Sets the amount of reverberation time.ExamplesVideo DemoNotesThis effect may have distortion problems with the input signal is more than 0.5.
